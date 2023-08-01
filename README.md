@@ -1,4 +1,7 @@
 # cardMemoryGame
+
+The program begins by showing the user a GUI (IMAGE 1) where they will select from a dropdown how many pairs they wish to play with (options range from 1 to 52) (IMAGE 2). The game will pop up after the user clicks on the ENTER button. A board of however many pairs of cards the user selected will appear face down, as well as a timer and score in the top right corner, and the player can begin to play (IMAGE 3). The player then should attempt to flip two identical cards over (IMAGES 3 & 4). If unsuccessful, the cards will flip back over, and the player can try again. If the user is successful, the cards will disappear, their score will increment, and they can continue matching the remaining pairs. Once the user matches all corresponding pairs, a final screen with a big "Good Job!" announcement and the timer will stop (IMAGE 5). 
+
 <img width="753" alt="GUI" src="https://github.com/nathalieabello/cardMemoryGame/assets/141185624/bd687d57-b915-448b-8edf-09840e7e67a2">
 <img width="644" alt="GUISelection" src="https://github.com/nathalieabello/cardMemoryGame/assets/141185624/b8450e5c-3610-48ec-8037-34b3b0b69b4f">
 <img width="1552" alt="2Cards" src="https://github.com/nathalieabello/cardMemoryGame/assets/141185624/02879f0d-f732-46ae-b9f6-017201e410a2">
