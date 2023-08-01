@@ -25,5 +25,5 @@ image 6 below
 image 7 below
 <img width="1508" alt="NormalBoard" src="https://github.com/nathalieabello/cardMemoryGame/assets/141185624/18d0a505-d76a-4a02-a5f5-3faa59fa49bb">
 
-
+image 8 below
 <img width="1552" alt="52Cards" src="https://github.com/nathalieabello/cardMemoryGame/assets/141185624/126fdb19-2972-4fc7-b048-045a2791ced5">
